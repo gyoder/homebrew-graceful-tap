@@ -1,15 +1,17 @@
-# Gyoder Neovim-nightly
+# graceful-tap
+
+> Grace's Personal Homebrew Tap
 
 ## How do I install these formulae?
 
-`brew install gyoder/neovim-nightly/<formula>`
+`brew install gyoder/graceful-tap/<formula>`
 
-Or `brew tap gyoder/neovim-nightly` and then `brew install <formula>`.
+Or `brew tap gyoder/graceful-tap` and then `brew install <formula>`.
 
 Or, in a `brew bundle` `Brewfile`:
 
 ```ruby
-tap "gyoder/neovim-nightly"
+tap "gyoder/graceful-tap"
 brew "<formula>"
 ```
 
